@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/neil-render/neil-render/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/neil-render/neil-render/output/snake.svg" alt="Snake animation" />
 
 ###
