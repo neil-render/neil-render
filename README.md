@@ -1,6 +1,6 @@
 <h2 align="left"> Ola! Welcome to my GitHub. </h2>
 </p>
-<h4 align="left"> Do something great! Hoje é o dia em que você faz algo ótimo! Faire quelque chose de bien! Doen iets groots! сделай что-нибудь великое! ทำสิ่งที่ยิ่งใหญ่! Iets geweldigs doen! </h4>
+<h5 align="left"> Do something great! ● Hoje é o dia em que você faz algo ótimo! ● Faire quelque chose de bien! ● Doen iets groots! ● сделай что-нибудь великое! ● ทำสิ่งที่ยิ่งใหญ่! ● Iets geweldigs doen! </h5>
 </p>
 
 ###
