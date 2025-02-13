@@ -2,7 +2,6 @@
 </p>
 <h4 align="left"> Do something great! Hoje é o dia em que você faz algo ótimo! Faire quelque chose de bien! Doen iets groots! сделай что-нибудь великое! ทำสิ่งที่ยิ่งใหญ่! Iets geweldigs doen! </h4>
 </p>
-</br>
 
 ###
 
