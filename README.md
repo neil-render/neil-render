@@ -1,6 +1,8 @@
-<h2 align="left"> Ola! Hoje é o dia em que você faz algo ótimo! </h2>
+<h2 align="left"> Ola! Welcome to my GitHub. </h2>
 </p>
+<h4 align="left"> Do something great! Hoje é o dia em que você faz algo ótimo! Faire quelque chose de bien! Doen iets groots! сделай что-нибудь великое! ทำสิ่งที่ยิ่งใหญ่! Iets geweldigs doen! </h4>
 </p>
+</br>
 
 ###
 
@@ -9,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neil-render&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
   <!---<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVvb2h0a25vMG16aGJ0dXFtamxncHg0NzJhZjJ1eWl0bmlqYXRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />--->
+  
 </p>
 
 ###
@@ -35,11 +38,8 @@
 
 ###
 
-
-<br clear="both">
-
+<p clear="both">
 <img src="https://raw.githubusercontent.com/neil-render/neil-render/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
